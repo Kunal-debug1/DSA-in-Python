@@ -27,12 +27,5 @@ This repository contains my DSA practice problems solved in Python.
 
 📈 Practice Platforms
 
-LeetCode
-
-GeeksforGeeks
-
-CodeStudio
-
-TCS NQT Preparation
-
-
+- LeetCode
+- GeeksforGeeks
