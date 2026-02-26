@@ -1,11 +1,11 @@
-📌 Data Structures and Algorithms in Python
+# 📌 Data Structures and Algorithms in Python
 
 Hi, I'm Kunal Gaikwad 👋
 This repository contains my DSA practice problems solved in Python.
 
 🚀 Goals
 
-Strengthen problem-solving skills
+- Strengthen problem-solving skills
 
 Prepare for product-based companies
 
@@ -44,3 +44,4 @@ GeeksforGeeks
 CodeStudio
 
 TCS NQT Preparation
+
